@@ -1,0 +1,20 @@
+:root {
+  --fondoprimario: #f0f6fc;
+  --boton: #c9d1d9;
+  --textosecundario: #101010;
+  --fondocolor: #56d364;
+}
+
+.contenedor_evento{
+  background: #f0f6fc;
+  color: #101010;
+}
+
+.contenedor_evento:hover{
+  background: #f0f6fc;
+
+}
+
+.boton_evento{
+  background: #56d364;
+}
